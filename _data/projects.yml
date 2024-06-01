@@ -4,7 +4,7 @@
   role: Result Forecast
   duration: September - November 2022 Coursework
   #url: https://www.linkedin.com/in/chumr/
-  description: In this case study, nominal data (historical outcomes: election results in D or R) will
+  description: In this study, nominal data (historical outcomes: election results in D or R) will
 provide a linear progression prediction. The historical data will provide a surface prediction of
 the election outcome, and it was used to form hypotheses. Ratio data (such as the high school
 and college degree education rates) were utilized in the study. This ratio data is essential to the
